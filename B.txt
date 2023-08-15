@@ -1,0 +1,14 @@
+              About
+ 
+          HONDA CIVIC
+
+ Max speed      - 120 mph
+ 0-100mph       - 6 Seconds
+ fual Type      - Petrol
+ Mileage        - 25 km per liter
+ Seat Capacity  - 4 seats
+	
+
+  Car Number     B22
+ 
+ *****Daily fee      - Rs:200*****

@@ -1,0 +1,15 @@
+          About
+ 
+       BMW Sedan
+
+ Max speed      - 145 mph
+ 0-100mph       - 3.8 seconds
+ fual Type      - Diesel
+ Mileage        - 20 km per liter
+ Seat Capacity  - 4 seats
+ 
+
+  Car Number     D44
+
+ 
+ *****Daily fee      -Rs:400*****

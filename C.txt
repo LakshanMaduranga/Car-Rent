@@ -1,0 +1,15 @@
+             About
+ 
+        Ford Mustang
+
+ Max speed       - 200 mph
+ 0-100mph        - 2.2 seconds
+ fual Type       - Petrol
+ Mileage         - 10 km per liter
+ Seat Capacity   - 4 seats
+
+ 
+ Car Number     C33
+ 
+ 
+ *****Daily fee      - Rs:300*****

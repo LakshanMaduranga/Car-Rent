@@ -1,0 +1,13 @@
+            About
+ 
+        TOYOTA  PRIUS
+
+ Max speed       - 130 mph
+ 0-100mph        - 5 seconds
+ fual Type       - Petrol
+ Mileage         - 16 Km per liter
+ Seat Capacity   - 4 seats
+ 
+ Car Number     H88
+ 
+*****Daily fee      - Rs:800*****
